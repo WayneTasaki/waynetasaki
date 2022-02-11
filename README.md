@@ -1,8 +1,8 @@
 
 <h1> Hello!  My name is Wayne Tasaki </h1>
-    <img align="right" alt="Cat eating ramen" height="160px" src="https://c.tenor.com/FyvK4Dx21McAAAAi/mochi-food.gif"/>
 <h2> Frontend dev in training</h2>
 <br>
+<img align="right" alt="Cat eating ramen" height="160px" src="https://c.tenor.com/FyvK4Dx21McAAAAi/mochi-food.gif"/>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>  
