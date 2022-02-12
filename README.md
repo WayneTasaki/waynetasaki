@@ -4,6 +4,7 @@
 
 <h2 align="center"> Frontend dev in training</h2>
 <br>
+
 * 🐈  Obsessed cat dad
 * 🥡  Chinese food and sushi
 * 🏡  Hardcore homebody
