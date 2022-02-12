@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! My name is Wayne Tasaki </h1>
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
-<h2 align="center"> Frontend dev in training</h2>
+<h2 align="center">👨‍💻  Frontend dev in training</h2>
 <br>
 
 * 🐈  Obsessed cat dad
