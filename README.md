@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! My name is Wayne Tasaki </h1>
 <h2 align="center"> Frontend dev in training</h2>
 <br>
-<img align="right" alt="Cat eating ramen" height="160px" src="https://c.tenor.com/FyvK4Dx21McAAAAi/mochi-food.gif"/>
+<img align="right" alt="Cat eating ramen" height="140px" src="https://c.tenor.com/FyvK4Dx21McAAAAi/mochi-food.gif"/>
 
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" alt="html5" width="33" height="33"/>
